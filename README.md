@@ -1,7 +1,7 @@
 # モザイク除去から学ぶ　最先端のディープラーニング
 2020年の技術書典8で頒布する予定だった（コロナウイルスにより中止）『モザイク除去から学ぶ　最先端のディープラーニング』の質問用のリポジトリです
 
-![](https://blog.shikoan.com/wp-content/uploads/2020/02/techbook08_02.png)
+![](https://github.com/koshian2/MosaicDeeplearningBook/blob/master/images/title.png)
 
 ## このリポジトリについて
 issueに投げていただいた質問を、著者のこしあんさん（@koshian2）が気まぐれで回答します。他の方が回答していていただいても構いません。本に関係ないことはスルーする場合があります。日本語で書ける方は日本語で書いてください（英語だと読むのが面倒くさいので）。
