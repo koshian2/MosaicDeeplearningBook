@@ -15,7 +15,7 @@ issueに投げていただいた質問を、著者のこしあんさん（@koshi
 ### Booth
 電子版＋物理版、電子版の2種類を用意しております。
 
-[https://koshian2.booth.pm/items/1835219](https://koshian2.booth.pm/items/1835219)
+**[https://koshian2.booth.pm/items/1835219](https://koshian2.booth.pm/items/1835219)**
 
 Boothの発売告知
 
@@ -24,7 +24,7 @@ Boothの発売告知
 ### とらのあな
 物理版のみの取り扱いとなります。電子版を購入者の方に期間限定でプレゼントいたします（詳細は下記noteを参照してください）
 
-[https://ec.toranoana.shop/tora/ec/item/040030818462/](https://ec.toranoana.shop/tora/ec/item/040030818462/)
+**[https://ec.toranoana.shop/tora/ec/item/040030818462/](https://ec.toranoana.shop/tora/ec/item/040030818462/)**
 
 とらのあなでは、3/31まで技術書を最大19％還元しておりますのでぜひご活用ください。とらのあなの発売告知。
 
