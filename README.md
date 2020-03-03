@@ -28,6 +28,7 @@ Boothの発売告知
 
 とらのあなでは、3/31まで技術書を最大19％還元しておりますのでぜひご活用ください。とらのあなの発売告知。
 
-* [https://note.com/koshian2/n/n4bf9bdd19699](https://note.com/koshian2/n/n4bf9bdd19699)
+* [https://note.com/koshian2/n/nfe3961acb389](https://note.com/koshian2/n/nfe3961acb389)
+* 実はとらのほうがお得なこともあるよという話　[https://blog.shikoan.com/techbook08-news03/](https://blog.shikoan.com/techbook08-news03/)
 
 
