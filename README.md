@@ -15,6 +15,8 @@ issueに投げていただいた質問を、著者のこしあんさん（@koshi
 ### 物理版＋電子版セット
 Boothでは物理版（紙の本）＋電子版、電子版の2種類を用意しております。物理版の配送に時間がかかることがありますが、電子版はおまけファイルよりすぐ読むことができます。
 
+<a href="https://koshian2.booth.pm/items/1835219"><img src="https://asset.booth.pm/static-images/banner/468x60_02.png"></a>
+
 **[https://koshian2.booth.pm/items/1835219](https://koshian2.booth.pm/items/1835219)**
 
 * 物理版＋電子版：2400円、送料別途400円～
