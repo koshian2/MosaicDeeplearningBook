@@ -56,8 +56,7 @@ Booth、Fantia、Noteの3つで展開しております。プラットフォー�
 * Booth：完売、検品中につき配送待ち
 * とらのあな：在庫あり、順次配送可能
 
-Booth・とらの両方で大規模な重版を検討中です。Boothの初版の配送は3月中旬、第2版は4月中旬頃の配送を見込んでいます。重版の注文受け付けは初版の配送完了後に行います。
-
+Booth・とらの両方で大規模な重版を検討中です。Boothの初版の配送は3月中旬、第2版は4月中旬以降の配送を見込んでいます。重版の注文受け付けは初版の配送完了後に行います。
 
 ## 過去のおしらせ
 * 2020/3/7 [ご報告](https://blog.shikoan.com/techbook08-news04/)
@@ -70,4 +69,18 @@ Booth・とらの両方で大規模な重版を検討中です。Boothの初版�
 * 2020/2/14 [技術書典8で新刊を委託します！](https://blog.shikoan.com/techbook08-news1/)
 * 2019/12/16 [技術書典8落選しました](https://note.com/koshian2/n/n6b69960a7d67)
 
+## 演習問題の利用規約について
+* 演習問題のスクショなどは、紹介としてツイート、ブログ掲載してもOKです。これは有料・無料公開分問わずOKです。むしろ推奨します。
+* 無料公開分の演習問題（1章）のURL共有も自由にOKです。
+* 有料範囲分の演習問題のURL共有は、本書の執筆に費やした印刷代金を上限とする金額をお支払いいただくことでできます。金額についてはご相談ください。ただしMacBook Proの最上位機種が余裕で買えるレベルの額なので、よくご理解の上共有ください。
+
+無料公開分の演習問題です。ご自由にチャレンジください。解答は試し読みPDFにあります。
+
+### 1章　機械学習・ディープラーニング・畳み込みニューラルネットワーク
+
+* Colaboratory・Pythonチュートリアル（初心者向け） [https://colab.research.google.com/drive/1wenkuZYMdOnTo-cis0qmvN4MgfTvTxm6](https://colab.research.google.com/drive/1wenkuZYMdOnTo-cis0qmvN4MgfTvTxm6)
+* 演習問題１：ディープラーニング入門 [https://colab.research.google.com/drive/1lFEAvFrXUuRY_yeXC7AK2LlC3pPZ2tYv](https://colab.research.google.com/drive/1lFEAvFrXUuRY_yeXC7AK2LlC3pPZ2tYv)
+* 演習問題２：画像処理の畳み込みから畳み込みニューラルネットワークへ [https://colab.research.google.com/drive/1vq5fvJvQlRq7ehsi8UJV8RKpYE4TiTf3](https://colab.research.google.com/drive/1vq5fvJvQlRq7ehsi8UJV8RKpYE4TiTf3)
+* 演習問題３：畳み込みニューラルネットワーク [https://colab.research.google.com/drive/1QImzsStP7Ba3Yfb6GAYZaEhkmByXEg06](https://colab.research.google.com/drive/1QImzsStP7Ba3Yfb6GAYZaEhkmByXEg06)
+* 演習問題（オプション）：Colab TPUによるCNNの訓練 [https://colab.research.google.com/drive/1D9jqqY-zEm7Wzns_7OAr73UATnsVK-T4](https://colab.research.google.com/drive/1D9jqqY-zEm7Wzns_7OAr73UATnsVK-T4)
 
