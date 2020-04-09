@@ -11,6 +11,8 @@ issueに投げていただいた質問を、著者のこしあんさん（@koshi
 
 [https://blog.shikoan.com/techbook08-news1/](https://blog.shikoan.com/techbook08-news1/)
 
+[感想まとめはこちら](https://github.com/koshian2/MosaicDeeplearningBook/blob/master/%E6%84%9F%E6%83%B3.md)
+
 ## 通販会場
 ### 物理版＋電子版セット
 Boothでは物理版（紙の本）＋電子版、電子版の2種類を用意しております。物理版の配送に時間がかかることがありますが、電子版はおまけファイルよりすぐ読むことができます。
