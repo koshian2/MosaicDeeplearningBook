@@ -34,7 +34,7 @@ Boothは発送に1週間程度かかるので、物理版をお急ぎの方・�
 ### メロンブックス
 2020年5月委託開始。物理版に電子版のDLコードが付属している（表紙の裏側に貼ってあります）ので、メール送付は不要です。
 
-[https://www.melonbooks.co.jp/detail/detail.php?product_id=670234](https://www.melonbooks.co.jp/detail/detail.php?product_id=670234)
+**[https://www.melonbooks.co.jp/detail/detail.php?product_id=670234](https://www.melonbooks.co.jp/detail/detail.php?product_id=670234)**
 
 万が一、DLコードに不備があった（ダウンロードできないなど）場合は、DLコードを明記の上奥付にありますメールアドレスまでご連絡ください。ただし、中古購入の場合は一切保証できませんのでご承知おきください。
 
