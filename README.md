@@ -22,6 +22,10 @@ issueに投げていただいた質問を、著者のこしあんさん（@koshi
 * p.33 「ディープラーニング入門　Q9解答」
   + 誤：```model.fit(X_train, y_train, validation_data=(X_train, y_train), epochs=10)```
   + 正：```model.fit(X_train, y_train, validation_data=(X_test, y_test), epochs=10)```
+* p.34 「画像処理の畳み込みから畳み込みニューラルネットワークへ　Q13解答」
+  + 誤：```outputs = tf.nn.conv2d(float_img, contour_kernel, 1, padding="SAME")outputs += 1.0```
+  + 正：```outputs = tf.nn.conv2d(float_img, contour_kernel, 1, padding="SAME")```(改行)```outputs += 1.0```
+* p.38 typo 誤：「画像の縮小や縮小において」　正：「画像の拡大や縮小において」
 * p.40　typo 誤：「したｇって」　正：「したがって」
 
 ## 通販会場
