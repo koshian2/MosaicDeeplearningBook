@@ -27,6 +27,8 @@ issueに投げていただいた質問を、著者のこしあんさん（@koshi
   + 正：```outputs = tf.nn.conv2d(float_img, contour_kernel, 1, padding="SAME")```(改行)```outputs += 1.0```
 * p.38 typo 誤：「画像の縮小や縮小において」　正：「画像の拡大や縮小において」
 * p.40　typo 誤：「したｇって」　正：「したがって」
+* p.57 7行目付近　誤：「ラプラシアンピラミッドとは擬似コードで書くと次のようになる。」　正：「**ガウシアンピラミッド**とは擬似コードで書くと次のようになる。」
+* p.58 3行目付近　誤「ラプラシアンピラミッドは「ガウシアンぼかし＋ダウンサンプリング」だった。」　正：「**ガウシアンピラミッド**は「ガウシアンぼかし＋ダウンサンプリング」だった。」。[issue感謝](https://github.com/koshian2/MosaicDeeplearningBook/issues/6)
 
 ## 通販会場
 ### Booth
@@ -39,41 +41,13 @@ Boothでは物理版（紙の本）＋電子版、電子版の2種類を用意�
 * 物理版＋電子版：2500円、送料別途400円～
 * 電子版：1800円
 
-Boothは発送に1週間程度かかるので、物理版をお急ぎの方・正式な領収書が必要な方はとら、メロンなどの委託書店をご利用ください。
+正式な領収書が必要な方はとら、メロンなどの委託書店をご利用ください。
 
-### メロンブックス
-2020年5月委託開始。物理版に電子版のDLコードが付属している（表紙の裏側に貼ってあります）ので、メール送付は不要です。
+### その他販売書店
+とらのあな、メロンブックス等で販売しています。ダッシュボードサイトを作りましたので、こちらをご確認ください。
 
-**[https://www.melonbooks.co.jp/detail/detail.php?product_id=670234](https://www.melonbooks.co.jp/detail/detail.php?product_id=670234)**
-
-万が一、DLコードに不備があった（ダウンロードできないなど）場合は、DLコードを明記の上奥付にありますメールアドレスまでご連絡ください。ただし、中古購入の場合は一切保証できませんのでご承知おきください。
-
-### とらのあな
-物理版のみの取り扱いとなります。とらのあな不定期で一定金額以上購入で送料無料キャンペーンを行っています。詳しくは公式サイトをご確認ください。
-
-委託書店での頒価は、メロン・とらともに3000円＋税です。各種店舗のクーポンをぜひご利用ください。
-
-### 電子版のみ（3箇所）
-Booth、Fantia、Noteの3つで展開しております。プラットフォーム手数料の関係で価格が異なりますが、決済方法が違うのでお好きなのをご利用ください。決済方法につきましては各プラットフォーム公式サイトを参照してください。
-
-* Booth : **[https://koshian2.booth.pm/items/1835219](https://koshian2.booth.pm/items/1835219)**
-* Note : **[https://note.com/koshian2/n/n8ebe5345306c](https://note.com/koshian2/n/n8ebe5345306c)**
-* DLsite : **[https://www.dlsite.com/home/work/=/product_id/RJ314824.html](https://www.dlsite.com/home/work/=/product_id/RJ314824.html)**
-* 技術書典OM：**[https://techbookfest.org/product/5740557385072640?productVariantID=5682774170140672](https://techbookfest.org/product/5740557385072640?productVariantID=5682774170140672)**
-
-電子版のみ価格
-
-* Booth：1800円
-* Note：1850円
-* DLsite：2090円
-* 技術書典OM：1800円
-
-## 在庫・配送状況
-2021/1/20時点
-
-* Booth：在庫あり
-* とらのあな：在庫あり
-* メロンブックス：在庫わずか
+**じゅ～しぃ～すくりぷとのダッシュボードサイト**
+**[https://shikoan.com/](https://shikoan.com/)**
 
 ## 領収書について
 宛名変更可能な領収書は[とらのあな](https://customer.toranoana.jp/faq_detail.html?id=9999469)をご利用ください。[メロンブックスでも領収書](https://www.melonbooks.co.jp/help/tpl.php?cid=165)は発行できます。Boothでの領収書発行の個別対応は行っていません。
